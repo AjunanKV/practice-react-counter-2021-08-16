@@ -1,0 +1,12 @@
+.Size {
+    color: cyan;
+    font-family: "Century Gothic";
+}
+input {
+    background-color: black;
+    color: cyan;
+    border-color: cyan;
+    padding: 5px;
+    font-family: "Century Gothic";
+    font-size: 14px;
+}

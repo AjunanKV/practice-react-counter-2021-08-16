@@ -1,0 +1,23 @@
+.counter{
+    margin: 15px;
+    font-family: "Century Gothic";
+    color: cyan;
+    padding: 10px;
+}
+button {
+    border-color: cyan;
+    background-color: black;
+    color: cyan;
+}
+body {
+    background-color: black;
+}
+button:hover {
+    background-color: white;
+}
+
+
+
+
+
+

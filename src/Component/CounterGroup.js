@@ -1,8 +1,8 @@
 import Counter from "./Counter";
-
+import "../styles/CounterGroup.css";
 function CounterGroup(props){
     function generateCounterList(){
-    return new Array(props.counterSize).fill(Date.now())
+        return new Array(props.counterSize).fill(Date.now())
     }
 
     const counterList = generateCounterList();
